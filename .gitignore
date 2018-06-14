@@ -1,0 +1,4 @@
+*.java
+*.class
+*.pyc
+__pycache__/*

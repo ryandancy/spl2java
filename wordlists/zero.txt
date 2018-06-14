@@ -1,0 +1,4 @@
+zero
+nothing
+zilch
+void
